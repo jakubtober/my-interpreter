@@ -1,5 +1,4 @@
 # My simple interpreter to understand how interpreters work
-# It will be only able to interprete simple "x [+-] y" expressions for now
 
 
 # # My token types
